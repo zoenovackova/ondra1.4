@@ -50,7 +50,5 @@ def pismeno_s():
     forward(60)
     pendown()
 
-pismeno_s()
-exitonclick()
 
 
